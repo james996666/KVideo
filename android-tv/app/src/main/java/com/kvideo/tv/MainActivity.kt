@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
             webViewClient = WebViewClient()
             webChromeClient = WebChromeClient()
 
-            loadUrl(KVIDEO_URL)
+            loadUrl(https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json)
         }
     }
 
